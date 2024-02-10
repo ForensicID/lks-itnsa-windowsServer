@@ -1,0 +1,5 @@
+This PC>C:>Windows>System32>Sysprep
+  run "sysprep"
+  checklist "generalise"
+  Shutdown Options "Reboot"
+  OKE
