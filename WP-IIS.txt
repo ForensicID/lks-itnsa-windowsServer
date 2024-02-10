@@ -5,3 +5,8 @@ Role Services
     - Management Tools (IIS full centang)
 Confirmation
     - Restart the destination server automatically if required
+
+#Download php 
+https://www.php.net/downloads.php
+Non Threads Safe (ZIP)
+Create Folder "php" in C:
