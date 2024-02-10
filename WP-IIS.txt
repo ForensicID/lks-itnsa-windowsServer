@@ -30,5 +30,24 @@ Rename "php.ini-production" TO "php.ini"
 Close and open again IIS Manager
 Open PHP Manager and Mapping php-cgi.exe
 
+#CEK KONEKSI DATABASE
+ping IP ADD
+
 #Environtment Variable
 Path C:\php
+
+#Configure php.ini
+Uncomment
+    extension=curl
+    extension=openssl
+    extension=pdo_pgsql
+    extension=pdo_sqllite
+    extension=pgsql
+
+#Configure Wordpress
+https://wordpress.org/download/
+rename "wp-config-sample TO wp-config.php"
+Config Extention Pg4wp in wp-content
+    https://github.com/PostgreSQL-For-Wordpress/postgresql-for-wordpress.git
+    ekstrak dan pindahkan folder "pg4wp" ke wp-content
+    keluarkan db.php ke luar(wp-content)
