@@ -1,0 +1,3 @@
+Manage>Add Roles and Features
+Server Roles
+    - checklist "Web Server(IIS)"
