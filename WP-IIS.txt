@@ -28,3 +28,7 @@ install php extension
     https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10
 Rename "php.ini-production" TO "php.ini"
 Close and open again IIS Manager
+Open PHP Manager and Mapping php-cgi.exe
+
+#Environtment Variable
+Path C:\php
