@@ -1,3 +1,7 @@
 Manage>Add Roles and Features
 Server Roles
     - checklist "Web Server(IIS)"
+Role Services
+    - Management Tools (IIS full centang)
+Confirmation
+    - Restart the destination server automatically if required
