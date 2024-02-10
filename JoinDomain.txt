@@ -1,0 +1,10 @@
+Local Server>Workgroup
+  - Change...
+  - Member of "Domain"
+    windowsjogja1.lan
+  - Oke
+
+#akan muncul
+Computer Name/Domain Changes
+  - Name "Administrator"
+  - Password "WindowsServer2023"
