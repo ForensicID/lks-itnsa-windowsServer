@@ -6,3 +6,6 @@ new>Organizational Unit>
 
 #create Group
 klik kanan pada OU>new Group
+
+#create User
+klik kanan pada group
