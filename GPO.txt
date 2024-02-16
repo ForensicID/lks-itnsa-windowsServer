@@ -1,6 +1,12 @@
 #Nonaktif First Sign in
 Computer Configuration>Policies>Administrative Templates>System>Logon>Show first sign-in animation
 
+#Add group to local Admin
+Group Policy Management>wndowsjogja1.lan(domain)>Domains>Group Policy Object>create new
+  #edit
+  Computer Configuration>Policies>Security Settings>Retricted Groups>Add Group...>browse : Administrator
+
 #Nonaktif recycle bin
 User Configuration>Policies>Administrative Templates>Remove Recycle Bin....
 
+#
