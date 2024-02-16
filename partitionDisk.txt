@@ -1,0 +1,3 @@
+windows+R>diskmgmt.msc
+Disk C:>klik kanan>Shrink Volume...>Enter the amount of space....= ukuran yang mau di ukur
+Unlocatted>klik kanan>New Simple Volume>
