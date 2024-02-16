@@ -9,3 +9,6 @@ klik kanan pada OU>new Group
 
 #create User
 klik kanan pada group
+
+#join group
+klik kanan namagroup>Properties>Members>Add...>Enter the object names to select>check names
