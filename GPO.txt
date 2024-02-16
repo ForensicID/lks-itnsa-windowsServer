@@ -1,0 +1,6 @@
+#Nonaktif First Sign in
+Computer Configuration>Policies>Administrative Templates>System>Logon>Show first sign-in animation
+
+#Nonaktif recycle bin
+User Configuration>Policies>Administrative Templates>Remove Recycle Bin....
+
