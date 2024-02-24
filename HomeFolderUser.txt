@@ -1,3 +1,0 @@
-klik kanan>Properties>Advance Sharing...>Checklist "Share this folder">Permission>Checklist "Full Control">
-Security>Advance>Disable inheritance | remove desktop/default user
-Active Directory Users and Computer>klik kanan pada user>Properties>Profile>Home folder>checlist "Connect" : path foldernya\%username%
