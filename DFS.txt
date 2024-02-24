@@ -1,1 +1,1 @@
-Namespace>klik kanan>New Namespace
+Namespace>klik kanan>New Namespace>Select Computer with advance and find now
