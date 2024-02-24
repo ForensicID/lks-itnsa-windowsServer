@@ -5,6 +5,8 @@ Role Service
   Certification Authority Web Enrollment
 Install
 
+PASTIKAN ANDA MENGGUNAKAN ADMINISTRATOR DOMAIN CONTROLLER
+
 #in notification
 Role Service
   Certifitcation Authority
