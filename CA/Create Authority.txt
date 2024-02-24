@@ -1,4 +1,2 @@
-#in notification
-Role Service
-  Certifitcation Authority
-  Certifitcation Authority Web Enrollment
+tools>Certificate Authority
+Certificate Template>klik kanan Manage
