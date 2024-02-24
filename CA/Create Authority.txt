@@ -1,2 +1,18 @@
 tools>Certificate Authority
-Certificate Template>klik kanan Manage
+Certificate Template>klik kanan Manage RELOAD
+Web Server>Security Full ACCESS
+
+#windows+R > mmc
+File>Add/Remove Snap-in...
+Certificate
+Add
+OK
+Personal>Certificates>klik kanan
+All Tasks>Request New Certificate...
+  Checklist Web Server>klik more.........
+Subject name:
+  Type: Common name
+  Value: lksjogja1.lan
+Private Key
+  Key options (checklist Make private key exportable)
+APPLY OK ENROLL
