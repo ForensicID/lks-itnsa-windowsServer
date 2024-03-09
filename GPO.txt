@@ -16,6 +16,18 @@ GPO
   user configuration> Administratif Template> klik desktop
   remove recycle bin icon from desktop
 
+# Nonaktifkan pengubahan screen saver
+- in OU klik kanan>Crate a GPO in this domain
+  Name: gpo-group
+  Source: none
+- Klik kanan in new gpo group>Edit
+  user configuration> Administratif Template> Control Panel> Personalization
 
+# Menonaktifkan gambar latar belakang
+- in OU klik kanan>Crate a GPO in this domain
+  Name: gpo-group
+  Source: none
+- Klik kanan in new gpo group>Edit
+  user configuration> Administratif Template> Control Panel> Personalization
 
 #
