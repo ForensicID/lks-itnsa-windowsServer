@@ -11,3 +11,5 @@ PASTIKAN ANDA MENGGUNAKAN ADMINISTRATOR DOMAIN CONTROLLER
 Role Service
   Certifitcation Authority
   Certifitcation Authority Web Enrollment
+CA Name
+common name = hostname windows saja
