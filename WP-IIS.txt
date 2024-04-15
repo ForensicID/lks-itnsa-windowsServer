@@ -33,7 +33,7 @@ Open PHP Manager and Mapping php-cgi.exe
 #CEK KONEKSI DATABASE
 ping IP ADD
 
-#Environtment Variable
+#Environtment Variable search in setting
 Path C:\php
 
 #Configure php.ini
