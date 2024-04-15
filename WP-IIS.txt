@@ -12,14 +12,14 @@ Copy folder php in C:
 #CGI Configuration
 Install-WindowsFeature -name Web-WebServer, Web-CGI -IncludeManagementTools
 Open IIS Manager
-Action>Add Module Mapping
+Handler Mappings> Action >Add Module Mapping
     - Request path: *.php
     - Module: FastCgiModule
     - Executable: C:\php\php-cgi.exe (cari php-cgi.exe)
     - Name: FastCGI
 
 #Default Document
-Default Document>klik kanan
+Default Document>double klik
     - Add index.php and default.php
 
 
