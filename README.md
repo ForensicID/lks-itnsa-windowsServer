@@ -1,1 +1,4 @@
-# WIN-SRV
+Change hostname
+AD and DNS SERVICE1
+Join Domain SERVICE2
+RDS
