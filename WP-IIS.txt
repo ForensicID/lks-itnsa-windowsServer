@@ -26,7 +26,7 @@ Default Document>double klik
 #PHP Manager Extension
 install php extension
     https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10
-Rename "php.ini-production" TO "php.ini"
+Rename "php.ini-production" TO "php.ini" in php
 Close and open again IIS Manager
 Open PHP Manager and Mapping php-cgi.exe
 
