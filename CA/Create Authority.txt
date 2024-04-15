@@ -2,17 +2,29 @@ tools>Certificate Authority
 Certificate Template>klik kanan Manage RELOAD
 Web Server>Security Full ACCESS
 
+create cert periode
+Web Server klik kanan
+Duplicate Template
+Windows 2016 latest
+general "name and periode year"
+checklist 2 2 nya
+
 #windows+R > mmc
 File>Add/Remove Snap-in...
 Certificate
 Add
+computer
+local computer
+finish
 OK
+
 Personal>Certificates>klik kanan
 All Tasks>Request New Certificate...
   Checklist Web Server>klik more.........
 Subject name:
   Type: Common name
   Value: lksjogja1.lan
+
 Private Key
   Key options (checklist Make private key exportable)
 APPLY OK ENROLL
