@@ -1,0 +1,6 @@
+Add roles and feature
+Remote Desktop Service installation
+Quick Start
+Session-based desktop deployment
+HOST WINDOWS
+checklist and deploy
