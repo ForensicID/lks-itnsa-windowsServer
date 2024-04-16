@@ -29,6 +29,9 @@ Rename "php.ini-production" TO "php.ini" in php
 Close and open again IIS Manager
 Open PHP Manager and Mapping php-cgi.exe
 
+#Install C++
+https://aka.ms/vs/16/release/vc_redist.x64.exe
+
 #CEK KONEKSI DATABASE
 ping IP ADD
 
