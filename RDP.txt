@@ -5,3 +5,6 @@ Session-based desktop deployment
 HOST WINDOWS
 checklist and deploy
 close open rds
+
+open iis and pasang cert
+akses web tanpa subdomain
