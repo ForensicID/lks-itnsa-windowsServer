@@ -50,3 +50,7 @@ Config Extention Pg4wp in wp-content
     https://github.com/PostgreSQL-For-Wordpress/postgresql-for-wordpress.git
     ekstrak dan pindahkan folder "pg4wp" ke wp-content
     keluarkan db.php ke luar(wp-content)
+
+#Default website iis
+klik kanan default website
+basic settings > Physical path (edit to wordpress)
