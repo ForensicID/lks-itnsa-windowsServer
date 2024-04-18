@@ -6,5 +6,8 @@ HOST WINDOWS
 checklist and deploy
 close open rds
 
+Install-WindowsFeature Remote-Desktop-Services,RDS-Web-Access,RDS-RD-Server,RDS-Connection-Broker,RDS-Licensing -IncludeManagementTools
+Enable-PSRemoting 
+
 open iis and pasang cert
 akses web tanpa subdomain
