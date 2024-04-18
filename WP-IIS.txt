@@ -45,6 +45,8 @@ Uncomment
     extension=pdo_pgsql
     extension=pdo_sqllite
     extension=pgsql
+    extension=php_pgsql.dll
+    extension=php.pdo_pgsql.dll
 
 #Configure Wordpress
 https://wordpress.org/download/
