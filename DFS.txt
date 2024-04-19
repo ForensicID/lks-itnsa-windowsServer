@@ -1,1 +1,5 @@
 Namespace>klik kanan>New Namespace>Select Computer with advance and find now
+
+klik kanan name namespace and new folder
+
+replication klik kanan
