@@ -1,2 +1,10 @@
 https://computingforgeeks.com/installing-exchange-server-on-windows-server/
 https://www.microsoft.com/en-us/download/details.aspx?id=104131
+https://www.microsoft.com/en-us/download/details.aspx?id=40784
+https://www.microsoft.com/en-us/download/details.aspx?id=34992
+
+# mount exchange installer
+# run setup.exe
+  Server Role Selection
+    Mailbox role
+  
