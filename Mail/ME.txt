@@ -2,6 +2,7 @@ https://computingforgeeks.com/installing-exchange-server-on-windows-server/
 https://www.microsoft.com/en-us/download/details.aspx?id=104131
 https://www.microsoft.com/en-us/download/details.aspx?id=40784
 https://www.microsoft.com/en-us/download/details.aspx?id=34992
+https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a
 
 Install-WindowsFeature RSAT-ADDS
 Install-WindowsFeature Server-Media-Foundation
