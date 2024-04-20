@@ -3,6 +3,8 @@ https://www.microsoft.com/en-us/download/details.aspx?id=104131
 https://www.microsoft.com/en-us/download/details.aspx?id=40784
 https://www.microsoft.com/en-us/download/details.aspx?id=34992
 
+Install-WindowsFeature RSAT-ADDS
+Install-WindowsFeature Server-Media-Foundation
 
 # add permission for computer 2
   Domain admins
